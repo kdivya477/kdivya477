@@ -1,6 +1,7 @@
 <!-- ================================================== -->
+
 <!--            GITHUB PROFILE README                 -->
-<!--  Edit the sections below to keep this up to date -->
+
 <!-- ================================================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Hi%20There,%20I'm%20Pushpanjali%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20CloudOps%20Engineer%20%7C%20Java%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" />
@@ -24,9 +25,17 @@
   </a>
 </p>
 
+<!-- GitHub Contribution Snake -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/kdivya477/kdivya477/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
 </p>
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <div align="center">
 
@@ -40,17 +49,12 @@
 <tr>
 <td>
 
-🎯&nbsp; Aspiring **CloudOps Engineer**, currently a student passionate about **Cybersecurity**
-<br/>
-☁️&nbsp; Learning **Cloud Operations** as a path toward specializing in cybersecurity
-<br/>
-🎓&nbsp; Studying at **KKR & KSR Institute of Technology and Sciences**
-<br/>
-📍&nbsp; Based in **Guntur, India**
-<br/>
-💼&nbsp; Looking for opportunities as a **CloudOps Engineer**
-<br/>
-💬&nbsp; Interests: **Cybersecurity**, **Cloud Computing**
+🎯  Aspiring **CloudOps Engineer**, currently a student passionate about **Cybersecurity** <br/>
+☁️  Learning **Cloud Operations** as a path toward specializing in cybersecurity <br/>
+🎓  Studying at **KKR & KSR Institute of Technology and Sciences** <br/>
+📍  Based in **Guntur, India** <br/>
+💼  Looking for opportunities as a **CloudOps Engineer** <br/>
+💬  Interests: **Cybersecurity**, **Cloud Computing**
 
 </td>
 </tr>
@@ -96,6 +100,7 @@
 <td width="100%">
 
 ### 🛡️ [Scam Shield](https://github.com/kdivya477)
+
 A scam detection and reporting platform that allows the public to report scams, while an admin dashboard tracks and resolves reported cases in real time.
 
 **Tech Stack:** PHP · Flutter (Dart) · MySQL · MAMP Server
@@ -106,8 +111,9 @@ A scam detection and reporting platform that allows the public to report scams, 
 </tr>
 </table>
 
-<!-- 🔽 Add Project 2 here in the same table format 🔽 -->
-<!-- 🔽 Add Project 3 here in the same table format 🔽 -->
+<!-- Add Project 2 here -->
+
+<!-- Add Project 3 here -->
 
 ---
 
@@ -125,13 +131,10 @@ A scam detection and reporting platform that allows the public to report scams, 
 <tr>
 <td width="100%">
 
-🤖&nbsp; Completed a **120-hour intensive workshop** on ChatGPT, Prompt Engineering & Generative AI applications
-<br/><br/>
-💻&nbsp; Participated in a **Java Full-Stack Hackathon**
-<br/><br/>
-🌐&nbsp; **NPTEL Elite Certification** – Internet of Things
-<br/><br/>
-🔐&nbsp; **Cisco Networking Essentials** (Cybersecurity)
+🤖  Completed a **120-hour intensive workshop** on ChatGPT, Prompt Engineering & Generative AI applications <br/><br/>
+💻  Participated in a **Java Full-Stack Hackathon** <br/><br/>
+🌐  **NPTEL Elite Certification** – Internet of Things <br/><br/>
+🔐  **Cisco Networking Essentials** (Cybersecurity)
 
 </td>
 </tr>
@@ -162,6 +165,8 @@ A scam detection and reporting platform that allows the public to report scams, 
   </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by — always open to connecting over CloudOps, Java, and Cybersecurity! 🚀</i></p>
+<p align="center">
+  <i>Thanks for stopping by — always open to connecting over CloudOps, Java, and Cybersecurity! 🚀</i>
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer" />
