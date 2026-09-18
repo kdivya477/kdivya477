@@ -114,16 +114,7 @@ A scam detection and reporting platform that allows the public to report scams, 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=28&fontColor=58A6FF&fontAlignY=70" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kdivya477&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdivya477&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=kdivya477&theme=tokyonight&border_radius=10&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kdivya477&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
