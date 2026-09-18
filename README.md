@@ -25,12 +25,6 @@
   </a>
 </p>
 
-<!-- GitHub Contribution Snake -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kdivya477/kdivya477/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
-</p>
-
 <!-- Snake Game Repo View -->
 
 <div align="center">
@@ -124,8 +118,6 @@ A scam detection and reporting platform that allows the public to report scams, 
 </p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=🏆%20Achievements%20%26%20Certifications&fontSize=26&fontColor=58A6FF&fontAlignY=70" />
 
 <table align="center" width="100%">
 <tr>
