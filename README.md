@@ -105,7 +105,7 @@ src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=
 <p align="center">
   <b>Frontend</b>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Technologies" />
 </p>
 
 <br/>
@@ -186,11 +186,209 @@ src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=
 
 ---
 
-<!-- ===================== FEATURED PROJECTS ===================== -->
+<!-- ===================== FEATURED PROJECT ===================== -->
 
 <img
 width="100%"
 src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=🚀%20Featured%20Project&fontSize=28&fontColor=58A6FF&fontAlignY=70"
 />
 
-<table align
+<table align="center" width="100%">
+<tr>
+<td>
+
+## 🛡️ ScamShield
+
+A scam detection and reporting platform that allows users to identify suspicious websites and phone numbers, report scams, and provides an admin dashboard for reviewing and managing reported cases.
+
+### ✨ Features
+
+* 🌐 Website scam checking
+* 📱 Phone number checking
+* 🚨 Scam reporting
+* 📊 Risk score and risk level
+* 📝 Scam report management
+* 👤 User authentication
+* 🔐 Password reset functionality
+* 👨‍💼 Admin dashboard
+* ✅ Admin report verification
+* ❌ Admin report rejection
+* 📈 Reports and statistics
+* 🗄️ MySQL database integration
+
+### 🧰 Technology Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MAMP-02749C?style=for-the-badge&logo=apache&logoColor=white" alt="MAMP" />
+</p>
+
+> 🔒 ScamShield is currently a local development project and has not yet been published as a separate GitHub repository.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== GITHUB STATS ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=📊%20GitHub%20Stats&fontSize=28&fontColor=58A6FF&fontAlignY=70"
+/>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kdivya477&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdivya477&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=kdivya477&theme=tokyonight&border_radius=10&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
+
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=🏆%20Achievements%20%26%20Certifications&fontSize=26&fontColor=58A6FF&fontAlignY=70"
+/>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+🤖   Completed a **120-hour intensive workshop** on ChatGPT, Prompt Engineering & Generative AI applications
+
+<br/><br/>
+
+💻   Participated in a **Java Full-Stack Hackathon**
+
+<br/><br/>
+
+🌐   **NPTEL Elite Certification** – Internet of Things
+
+<br/><br/>
+
+🔐   **Cisco Networking Essentials** – Cybersecurity
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CURRENTLY LEARNING ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=📚%20Currently%20Learning&fontSize=28&fontColor=58A6FF&fontAlignY=70"
+/>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS%20CloudOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS CloudOps" />
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
+
+<img src="https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="DevOps" />
+
+<img src="https://img.shields.io/badge/Cloud%20Security-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" alt="Cloud Security" />
+
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,git,github" alt="Currently Learning" />
+</p>
+
+---
+
+<!-- ===================== CAREER FOCUS ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=🎯%20Career%20Focus&fontSize=28&fontColor=58A6FF&fontAlignY=70"
+/>
+
+<table align="center">
+<tr>
+<td>
+
+☁️ **Cloud Operations**
+
+🐧 **Linux System Administration**
+
+⚙️ **DevOps & Automation**
+
+🔐 **Cloud & Cybersecurity**
+
+🌐 **AWS Infrastructure**
+
+🚀 **Real-world Cloud Projects**
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=transparent&color=58A6FF&height=60&section=header&text=🤝%20Connect%20With%20Me&fontSize=28&fontColor=58A6FF&fontAlignY=70"
+/>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kanamarlapudi-k-d-v-l-s-pushpanjali-6803b22a7">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="mailto:23jr1a1277@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
+<a href="https://github.com/kdivya477">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</p>
+
+<br/>
+
+<p align="center">
+  <i>Thanks for visiting my profile! 🚀</i>
+  <br/>
+  <i>Always learning • Always building • Always improving</i>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer"
+/>
